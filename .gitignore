@@ -1,0 +1,7 @@
+BTracker/gradle.properties
+BTracker/gradlew
+BTracker/gradlew.bat
+BTracker/.idea/
+BTracker/gradle/wrapper/gradle-wrapper.jar
+BTracker/gradle/wrapper/gradle-wrapper.properties
+BTracker/app/proguard-rules.pro

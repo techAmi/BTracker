@@ -1,0 +1,21 @@
+<resources>
+    <string name="server_url">http://54.249.54.183:80/parse</string>
+    <string name="app_id">9537881710018dfc8bb120f2235b9ac344b1e80a</string>
+    <string name="client_key">e73b30d8eb2fcbe841ce2feb6bcde58863da5cf8</string>
+
+    <string name="app_name">BTracker</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_up">Sign up</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
